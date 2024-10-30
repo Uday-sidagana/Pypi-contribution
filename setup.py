@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="my_package",                    # Package name
+    name="setsGreatest",                    # Package name
     version="0.1.0",                      # Version
     packages=find_packages(),  
                           # Automatically find packages
